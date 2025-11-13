@@ -46,7 +46,7 @@ Prerequisites
 
 Clone the Repository:
 
-git clone github.com/lisa-silva/auditus-xai/edit/main/README.md
+git clone https://github.com/lisa-silva/auditus-xai.git
 cd auditus-xai
 
 
