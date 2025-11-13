@@ -46,8 +46,8 @@ Prerequisites
 
 Clone the Repository:
 
-git clone [YOUR GITHUB REPO URL HERE]
-cd [your-auditus-repo-name]
+git clone github.com/lisa-silva/auditus-xai/edit/main/README.md
+cd auditus-xai
 
 
 Create a Virtual Environment (venv):
